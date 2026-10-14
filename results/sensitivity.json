@@ -1,0 +1,112 @@
+{
+  "0": {
+    "fixed": {
+      "failed_per_shop_per_month": 5.8,
+      "goal_reached_pct": 79.2
+    },
+    "pct_yesterday": {
+      "failed_per_shop_per_month": 5.4,
+      "goal_reached_pct": 75.2
+    },
+    "ai": {
+      "failed_per_shop_per_month": 3.3,
+      "goal_reached_pct": 86.7
+    },
+    "ai_balance": {
+      "failed_per_shop_per_month": 3.3,
+      "goal_reached_pct": 86.7
+    },
+    "balance_only": {
+      "failed_per_shop_per_month": 0.0,
+      "goal_reached_pct": 0.0
+    }
+  },
+  "0.25": {
+    "fixed": {
+      "failed_per_shop_per_month": 4.3,
+      "goal_reached_pct": 84.5
+    },
+    "pct_yesterday": {
+      "failed_per_shop_per_month": 3.7,
+      "goal_reached_pct": 83.2
+    },
+    "ai": {
+      "failed_per_shop_per_month": 1.9,
+      "goal_reached_pct": 88.9
+    },
+    "ai_balance": {
+      "failed_per_shop_per_month": 2.6,
+      "goal_reached_pct": 95.3
+    },
+    "balance_only": {
+      "failed_per_shop_per_month": 2.6,
+      "goal_reached_pct": 70.0
+    }
+  },
+  "0.5": {
+    "fixed": {
+      "failed_per_shop_per_month": 2.6,
+      "goal_reached_pct": 90.5
+    },
+    "pct_yesterday": {
+      "failed_per_shop_per_month": 2.1,
+      "goal_reached_pct": 90.5
+    },
+    "ai": {
+      "failed_per_shop_per_month": 1.0,
+      "goal_reached_pct": 90.2
+    },
+    "ai_balance": {
+      "failed_per_shop_per_month": 1.6,
+      "goal_reached_pct": 98.7
+    },
+    "balance_only": {
+      "failed_per_shop_per_month": 2.0,
+      "goal_reached_pct": 97.4
+    }
+  },
+  "0.75": {
+    "fixed": {
+      "failed_per_shop_per_month": 0.9,
+      "goal_reached_pct": 96.9
+    },
+    "pct_yesterday": {
+      "failed_per_shop_per_month": 0.6,
+      "goal_reached_pct": 95.9
+    },
+    "ai": {
+      "failed_per_shop_per_month": 0.3,
+      "goal_reached_pct": 91.1
+    },
+    "ai_balance": {
+      "failed_per_shop_per_month": 0.5,
+      "goal_reached_pct": 99.7
+    },
+    "balance_only": {
+      "failed_per_shop_per_month": 0.7,
+      "goal_reached_pct": 99.7
+    }
+  },
+  "1.0": {
+    "fixed": {
+      "failed_per_shop_per_month": 0.1,
+      "goal_reached_pct": 99.6
+    },
+    "pct_yesterday": {
+      "failed_per_shop_per_month": 0.1,
+      "goal_reached_pct": 97.2
+    },
+    "ai": {
+      "failed_per_shop_per_month": 0.1,
+      "goal_reached_pct": 91.3
+    },
+    "ai_balance": {
+      "failed_per_shop_per_month": 0.1,
+      "goal_reached_pct": 100.0
+    },
+    "balance_only": {
+      "failed_per_shop_per_month": 0.0,
+      "goal_reached_pct": 99.9
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "period": "2025-07-01 to 2025-12-31",
+  "shops": 300,
+  "fixed": {
+    "failed_payment_rate_pct": 19.1,
+    "failed_payments_per_shop_per_month": 5.8,
+    "rest_days_per_shop_per_month": 0.0,
+    "goal_reached_pct": 79.2,
+    "total_saved_rs": 8275120,
+    "failed_rate_by_shop_type_pct": {
+      "chai_stall": 16.0,
+      "clothing": 32.1,
+      "kirana": 10.8,
+      "mobile_repair": 31.4,
+      "sabzi_vendor": 17.6
+    }
+  },
+  "pct_yesterday": {
+    "failed_payment_rate_pct": 18.6,
+    "failed_payments_per_shop_per_month": 5.4,
+    "rest_days_per_shop_per_month": 1.5,
+    "goal_reached_pct": 75.2,
+    "total_saved_rs": 7850120,
+    "failed_rate_by_shop_type_pct": {
+      "chai_stall": 15.6,
+      "clothing": 32.3,
+      "kirana": 10.6,
+      "mobile_repair": 32.5,
+      "sabzi_vendor": 17.1
+    }
+  },
+  "simple_rule": {
+    "failed_payment_rate_pct": 16.8,
+    "failed_payments_per_shop_per_month": 4.3,
+    "rest_days_per_shop_per_month": 5.3,
+    "goal_reached_pct": 66.6,
+    "total_saved_rs": 6954370,
+    "failed_rate_by_shop_type_pct": {
+      "chai_stall": 16.3,
+      "clothing": 27.8,
+      "kirana": 11.3,
+      "mobile_repair": 27.4,
+      "sabzi_vendor": 19.1
+    }
+  },
+  "ai": {
+    "failed_payment_rate_pct": 12.4,
+    "failed_payments_per_shop_per_month": 3.3,
+    "rest_days_per_shop_per_month": 4.2,
+    "goal_reached_pct": 86.7,
+    "total_saved_rs": 9057140,
+    "failed_rate_by_shop_type_pct": {
+      "chai_stall": 8.2,
+      "clothing": 17.3,
+      "kirana": 8.4,
+      "mobile_repair": 20.2,
+      "sabzi_vendor": 15.4
+    }
+  },
+  "pct_today": {
+    "failed_payment_rate_pct": 11.0,
+    "failed_payments_per_shop_per_month": 3.2,
+    "rest_days_per_shop_per_month": 1.5,
+    "goal_reached_pct": 92.9,
+    "total_saved_rs": 9695400,
+    "failed_rate_by_shop_type_pct": {
+      "chai_stall": 9.7,
+      "clothing": 17.2,
+      "kirana": 6.4,
+      "mobile_repair": 19.1,
+      "sabzi_vendor": 10.7
+    }
+  },
+  "ai_vs_fixed": {
+    "fewer_failed_payments_pct": 43.1,
+    "more_money_saved_pct": 9.5
+  }
+}

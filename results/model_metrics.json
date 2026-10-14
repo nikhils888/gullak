@@ -1,0 +1,35 @@
+{
+  "test_period": "2025-07-01 to 2025-12-31",
+  "test_shop_days": 55200,
+  "forecast_error": {
+    "ai_model_typical": {
+      "avg_error_rs": 1397.7,
+      "error_pct_of_income": 25.0
+    },
+    "simple_same_day_last_week": {
+      "avg_error_rs": 2144.6,
+      "error_pct_of_income": 38.4
+    },
+    "simple_last_7_day_average": {
+      "avg_error_rs": 1912.1,
+      "error_pct_of_income": 34.2
+    }
+  },
+  "safe_model_income_above_estimate_pct": 76.8,
+  "feature_importance_pct_typical": {
+    "same_weekday_avg": 54.9,
+    "same_weekday_zeros": 11.8,
+    "days_to_festival": 10.3,
+    "shop_type": 7.5,
+    "weekday": 6.4,
+    "day_of_month": 2.5,
+    "lag_7": 1.7,
+    "lag_14": 1.4,
+    "min_7": 0.8,
+    "festival_strength": 0.8,
+    "lag_1": 0.7,
+    "month": 0.6,
+    "mean_7": 0.3,
+    "std_7": 0.3
+  }
+}
